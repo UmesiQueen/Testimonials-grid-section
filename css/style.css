@@ -19,17 +19,23 @@ html {
 }
 
 body {
+  min-height: 100vh;
   background-color: var(--Light_grayish_blue);
   color: var(--White);
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
+
+  display: flex;
+  place-content: center;
 }
 
 .container {
-  margin: 0 auto;
-  padding: 1.2em;
+  max-width: 1110px;
+  margin: auto;
   display: grid;
-  grid-template: "col-1 col-1 col-2 col-5" "col-3 col-4 col-4 col-5";
+  grid-template:
+    "col-1 col-1 col-2 col-5"
+    "col-3 col-4 col-4 col-5";
 }
 
 .gridbox {
@@ -108,7 +114,7 @@ body {
   font-weight: 600;
 }
 
-.review p {
+.review blockquote {
   margin-top: 1em;
   opacity: 70%;
   font-weight: 500;
