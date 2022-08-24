@@ -7,6 +7,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,11 +23,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+### Screenshot
+![Alt text](images/Screenshot.png?raw=true "Optional Title")
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-f1oMQRcp4X)
-- Live Site URL: [Live site URL](https://umesiqueen.github.io/Testimonials-grid-section)
+- Solution URL: [Click Here!](https://www.frontendmentor.io/solutions/testimonials-grid-section-f1oMQRcp4X)
+- Live Site URL: [Click Here!](https://umesiqueen.github.io/Testimonials-grid-section)
 
 ## My process
 
