@@ -46,7 +46,7 @@ This challenge introduced me to the css property, grid.
 
 ## Author
 
-- Website - [null]](coming soon)
+- Website - [UmesiQueen](https://umesiqueen.github.io/UmesiQueen/)
 - Frontend Mentor - [@UmesiQueen](https://www.frontendmentor.io/profile/UmesiQueen)
 - Twitter - [@UmesiQueen](https://www.twitter.com/UmesiQueen)
 
